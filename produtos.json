@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Savvy Shoulder Tote",
+    "price": "$32.00 $24.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wb05-red-0.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/savvy-shoulder-tote/"
+  },
+  {
+    "title": "Mars HeatTech™ Pullover",
+    "price": "$66.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/mj10-red_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/mars-heattech-pullover/"
+  },
+  {
+    "title": "Lono Yoga Short",
+    "price": "$32.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/msh06-gray_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/lono-yoga-short/"
+  },
+  {
+    "title": "Ariel Roll Sleeve Sweatshirt",
+    "price": "$39.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/wh09-purple_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/ariel-roll-sleeve-sweatshirt/"
+  },
+  {
+    "title": "Juliana Short-Sleeve Tee",
+    "price": "$42.00",
+    "image_url": "https://www.scrapingcourse.com/ecommerce/wp-content/uploads/2024/03/ws07-black_main.jpg",
+    "product_url": "https://www.scrapingcourse.com/ecommerce/product/juliana-short-sleeve-tee/"
+  }
+]
